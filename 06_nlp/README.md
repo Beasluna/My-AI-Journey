@@ -39,7 +39,13 @@
 ```bash
 pip install torch transformers pandas scikit-learn
 
-Nota: Los archivos .pth (pesos del modelo) no están subidos al repositorio por su tamaño. Puedes entrenarlos tú misma usando los notebooks proporcionados.
-Note: The .pth (model weights) files are not uploaded due to their size. You can train the models yourself using the provided notebooks.
+
+
+## 💾 Model Weights | Pesos del Modelo
+[ES] Debido a restricciones de tamaño, los pesos de los modelos están alojados en Google Drive:
+
+- [📥 Bi-LSTM Weights (model.pth)](https://drive.google.com/file/d/1v3vZIhzwcnSR_Zf6e2yvvg6zxvFT7NNo/view?usp=drive_link)
+- [📥 Transformer Weights (model_transformer1.pth)](https://drive.google.com/file/d/1E285T6fi5twBebOPIIwkaBHF6dfssKgL/view?usp=drive_link)
+
 
 Building the future, line by line. 🤖
